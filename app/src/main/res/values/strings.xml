@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BillBreakDown</string>
+    <string name="invalid_num_people">Invalid number of people</string>
+    <string name="invalid_amount_for_person">Invalid amount for Person %1$d</string>
+    <string name="no_valid_amounts_entered">No valid amounts entered</string>
+
+</resources>
